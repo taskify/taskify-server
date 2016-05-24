@@ -1,6 +1,6 @@
 {
   "name": "taskify_server",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "basic income",
   "main": "index.js",
   "scripts": {
