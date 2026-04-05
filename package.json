@@ -1,6 +1,6 @@
 {
-  "name": "taskify-server",
-  "version": "0.0.1",
+  "name": "taskify_server",
+  "version": "0.0.7",
   "description": "Server for Taskify — AI agent orchestration dashboard",
   "type": "module",
   "bin": {
