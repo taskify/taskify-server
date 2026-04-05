@@ -1,0 +1,21 @@
+{
+  "name": "taskify-server",
+  "version": "0.0.1",
+  "description": "Server for Taskify — AI agent orchestration dashboard",
+  "type": "module",
+  "bin": {
+    "taskify-server": "./bin/taskify-server.js"
+  },
+  "scripts": {
+    "start": "node bin/taskify-server.js"
+  },
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taskify/taskify-server.git"
+  },
+  "dependencies": {
+    "javascript-solid-server": ">=0.0.136"
+  },
+  "keywords": ["taskify", "ai", "agents", "orchestration", "solid", "jss"]
+}
